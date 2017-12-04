@@ -1,4 +1,4 @@
-- [ ] git clone  
+- [x] git clone  
 - [ ] git config  
 
 
